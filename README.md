@@ -25,7 +25,7 @@
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 
----
+---ek
 
 ## 📊 GitHub Stats
 
@@ -47,7 +47,7 @@
 
 <p align="center">
 <a href="https://github.com/yashharfode"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin"></a>
+<a href="https://linkedin.com/in/yashharfode"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
