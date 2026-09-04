@@ -48,15 +48,19 @@
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashharfode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Yash's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashharfode&theme=tokyonight&hide_border=true&background=0D1117" alt="Yash's Streak" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=yashharfode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" alt="Yash's GitHub Stats" width="49%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashharfode&theme=tokyonight&hide_border=true&background=0D1117" alt="Yash's GitHub Streak" width="49%" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashharfode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Yash's Most Used Languages" width="50%" />
+
 </div>
 
-<p align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashharfode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
-</p>
 
 ---
 
